@@ -4,6 +4,13 @@ h1{
     color: blue;
 }
 
+body{
+     font-weight: bolder;
+     font-family: system-ui;
+
+}
+
+
 h1 {
     color: yellow;
     background-color: black;
